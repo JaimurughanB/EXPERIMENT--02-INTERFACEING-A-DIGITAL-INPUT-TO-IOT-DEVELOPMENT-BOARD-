@@ -172,10 +172,12 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Before detection of an object
 
 
+![image](https://github.com/user-attachments/assets/b8d856e9-4686-4d5e-a79c-2e695f8bf006)
 
 ## After detection of an object
 
 
+![image](https://github.com/user-attachments/assets/64e92782-837a-4d6e-aef6-d6b4e0370981)
 
 
 ## Result :
