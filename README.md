@@ -125,11 +125,15 @@ void irpair()
  }
 ````
 ## Output  :
-LED OFF:
-![WhatsApp Image 2024-03-19 at 20 24 59_ec60d1e4](https://github.com/user-attachments/assets/0b556176-d24c-4ea1-86c8-0dbbdf0e84fd)
 
-LED ON:
-![WhatsApp Image 2024-03-19 at 20 24 59_ec60d1e4](https://github.com/user-attachments/assets/89652216-b8b4-412a-bf11-3dfa7f9fcd3a)
+## Before detection of an object
+``````````
+![Uploading image.png…]()
+
+
+## After detection of an object
+![Uploading image.png…]()
+
  
 ## Result :
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
