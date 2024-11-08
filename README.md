@@ -126,15 +126,10 @@ void irpair()
 ## Output  :
 
 ## Before detection of an object
-``
 ![Uploading image.png…]()
-``````
-
 ## After detection of an object
-`````
 ![Uploading image.png…]()
-``````````
 
- 
+
 ## Result :
 Interfacing a digital Input (ir pair) with ARM microcontroller based IOT development is executed and the results are verified.
