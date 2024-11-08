@@ -125,14 +125,16 @@ void irpair()
 ````
 ## Output  :
 
-## Before detection of an object:
+## Before detection of an object
+`````
+![Uploading image.png…]()
+``````
+`
+## After detection of an object
+`````
 
 ![Uploading image.png…]()
-`
-## After detection of an object:
-
-![Uploading image.png…]()
-`
+`````
 
 
 ## Result :
